@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "OOP lab work", "OOP lab work.phpproj", "{751F4CF8-0911-440F-8FE3-829406C62C54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{751F4CF8-0911-440F-8FE3-829406C62C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751F4CF8-0911-440F-8FE3-829406C62C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751F4CF8-0911-440F-8FE3-829406C62C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751F4CF8-0911-440F-8FE3-829406C62C54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DBAC234-45AF-4EFC-8AF3-D71284F7550F}
+	EndGlobalSection
+EndGlobal
