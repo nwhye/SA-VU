@@ -1,0 +1,29 @@
+using System;
+using System.Linq;
+using System.Collections.Generic;
+
+class Employee
+{
+    public string? Name { get; set; }
+    public int Salary { get; set; }
+}
+class Program
+{
+    static void Main()
+    {
+        List<Employee> employees = new()
+        {
+            new Employee { Name = "Hanna", Salary = 5000 },
+            new Employee { Name = "Daniil", Salary = 6000 },
+            new Employee { Name = "Artem", Salary = 5500 },
+            new Employee { Name = "Ivan", Salary = 4500 }
+        };
+
+        var sortedEmployees = employees.OrderByDescending(emp => emp.Salary);
+
+        foreach (var employee in sortedEmployees)
+        {
+            Console.WriteLine($"Name: {employee.Name}, Salary: {employee.Salary}");
+        }
+    }
+}
