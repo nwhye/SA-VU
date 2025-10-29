@@ -1,0 +1,15 @@
+C:\Users\asedo\Documents\Visual Studio 2022\Projects\LW6\bin\Debug\net6.0\LW6.exe
+C:\Users\asedo\Documents\Visual Studio 2022\Projects\LW6\bin\Debug\net6.0\LW6.deps.json
+C:\Users\asedo\Documents\Visual Studio 2022\Projects\LW6\bin\Debug\net6.0\LW6.runtimeconfig.json
+C:\Users\asedo\Documents\Visual Studio 2022\Projects\LW6\bin\Debug\net6.0\LW6.dll
+C:\Users\asedo\Documents\Visual Studio 2022\Projects\LW6\bin\Debug\net6.0\LW6.pdb
+C:\Users\asedo\Documents\Visual Studio 2022\Projects\LW6\obj\Debug\net6.0\LW6.csproj.AssemblyReference.cache
+C:\Users\asedo\Documents\Visual Studio 2022\Projects\LW6\obj\Debug\net6.0\LW6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asedo\Documents\Visual Studio 2022\Projects\LW6\obj\Debug\net6.0\LW6.AssemblyInfoInputs.cache
+C:\Users\asedo\Documents\Visual Studio 2022\Projects\LW6\obj\Debug\net6.0\LW6.AssemblyInfo.cs
+C:\Users\asedo\Documents\Visual Studio 2022\Projects\LW6\obj\Debug\net6.0\LW6.csproj.CoreCompileInputs.cache
+C:\Users\asedo\Documents\Visual Studio 2022\Projects\LW6\obj\Debug\net6.0\LW6.dll
+C:\Users\asedo\Documents\Visual Studio 2022\Projects\LW6\obj\Debug\net6.0\refint\LW6.dll
+C:\Users\asedo\Documents\Visual Studio 2022\Projects\LW6\obj\Debug\net6.0\LW6.pdb
+C:\Users\asedo\Documents\Visual Studio 2022\Projects\LW6\obj\Debug\net6.0\LW6.genruntimeconfig.cache
+C:\Users\asedo\Documents\Visual Studio 2022\Projects\LW6\obj\Debug\net6.0\ref\LW6.dll
