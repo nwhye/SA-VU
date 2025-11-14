@@ -14,3 +14,10 @@
 - Object-Oriented Programming
 - Programming Languages
 - Applied Mathematics *(no records)*
+
+## 3rd semester
+- Artificial Intelligence
+- Databases
+- E-service Design Principles and Infrastructure Solutions
+- Requirements Analysis and Specification
+- Web Programming
