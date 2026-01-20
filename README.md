@@ -21,3 +21,30 @@
 - E-service Design Principles and Infrastructure Solutions
 - Requirements Analysis and Specification
 - Web Programming
+
+
+## 4th semester
+- Service-oriented Architecture
+- Computer Networks
+- Educational Practice of E-Service Systems Design
+- Software Systems Modeling
+- Software Design
+
+## 5th semester
+- E-services for Business Management Algorithms
+- Software Process
+- Management of Software Projects
+- Systemic Programming
+- Network Programming
+
+## 6th semester
+- E. Service Software Design and Management Practices
+- Programming of Embedded Systems
+- Component and Parallel Oriented Programming
+- Software Quality and Security
+- Human-Computer Interaction
+
+## 7th semester
+- Information Law and Ethics
+- Technological Solutions for Smart Services
+- Software Testing
