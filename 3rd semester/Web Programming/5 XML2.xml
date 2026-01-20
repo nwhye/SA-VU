@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students [
+    <!ELEMENT student (name,age,occupation)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ELEMENT occupation (#PCDATA)>
+]>
+
+<student>
+  <Name>Daniil</Name>
+  <Age>18</Age>
+  <Occupation>Musician</Occupation>
+</student>
+
+<student>
+  <Name>Vanya</Name>
+  <Age>19</Age>
+  <Occupation>Coach</Occupation>
+</student>
+
+<student>
+  <Name>Artem</Name>
+  <Age>19</Age>
+  <Occupation>Alcoholic</Occupation>
+</student>

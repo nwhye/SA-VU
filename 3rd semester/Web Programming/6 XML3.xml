@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="http://www.uct.ac.za"
+    xmlns:uct="http://www.uct.ac.za"
+>
+
+  <element name="article" type="article"/>
+
+  <element name="Article">
+    <complexType>
+      <sequence>
+        <element name="Title" type="string"/>
+        <element name="Name" type="string"/>
+        <element name="Date" type="string"/>
+        <element name="Author" type="string"/>
+        <element name="Length" type="integer"/>
+      </sequence>
+    </complexType>
+  </element>
+
+  <element name="Author">
+    <complexType>
+      <sequence>
+        <element name="AuthorFirstName" type="string"/>
+        <element name="AuthorLastName" type="string"/>
+      </sequence>
+    </complexType>
+  </element>
+
+  <element name="Length">
+     <complexType>
+         <simpleContent>
+              <extension base="string">
+                  <attribute ref="unit" use="required"></attribute>
+              </extension>
+          </simpleContent>
+      </complexType>
+   </element>
+
+</schema>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE uct [
+    <!ELEMENT id_data (#PCDATA)>
+    <!ELEMENT name (firstname, middlename*, lastname)>
+    <!ELEMENT firstname (#PCDATA)>
+    <!ELEMENT middlename (#PCDATA)>
+    <!ELEMENT lastname (#PCDATA)>
+    <!ELEMENT date_of_birth (day, month, year)>
+    <!ATTLIST date_of_birth day number #REQUIRED>
+    <!ATTLIST date_of_birth month number #REQUIRED>
+    <!ATTLIST date_of_birth year nuumber #REQUIRED>
+    <?ELEMENT bloodgroup (number)>
+]>
