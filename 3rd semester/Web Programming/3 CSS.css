@@ -1,0 +1,18 @@
+body {
+  background-color: #FFF9E1;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: New Times Romans;
+  font-size: 18px;
+  text-align: center;
+}
+
+hr.new1 {
+  border-top: 2px solid black;
+}
